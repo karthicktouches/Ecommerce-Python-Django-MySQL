@@ -1,0 +1,11 @@
+I had created a Ecommerce website with Python,Mysql,Django,HTML,CSS,Javascript which includes the following--
+      - MySQL database
+      - Bootstrap 5 framework
+      - Product out of stock management
+      - Trending and latest products listing
+      - User registration form
+      - Bootstrap alert message
+      - User registration
+      - User login and logout page
+      - Add to cart page
+      - Add to favourite
